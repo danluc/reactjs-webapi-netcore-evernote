@@ -1,0 +1,18 @@
+.notes {
+  background-color: aliceblue;
+  height: calc(100vh - 70px);
+}
+
+.bm-menu {
+  background: white;
+  padding-top: 10px;
+}
+
+.notes-editor {
+  padding: 0;
+  height: calc(100% - 43px);
+}
+
+.quill {
+  height: 100%;
+}
